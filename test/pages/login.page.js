@@ -1,4 +1,4 @@
-const Page = require("./page");
+const Page = require("./page.js");
 
 class LoginPage extends Page {
   //Disini didefinisikan locator dari element
